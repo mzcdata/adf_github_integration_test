@@ -1,0 +1,25 @@
+{
+	"name": "pipeline2",
+	"properties": {
+		"activities": [
+			{
+				"name": "Append variable1",
+				"type": "AppendVariable",
+				"dependsOn": [],
+				"userProperties": [],
+				"typeProperties": {
+					"variableName": "test",
+					"value": "test"
+				}
+			}
+		],
+		"variables": {
+			"test": {
+				"type": "Array"
+			}
+		},
+		"annotations": [],
+		"lastPublishTime": "2023-02-02T02:16:01Z"
+	},
+	"type": "Microsoft.DataFactory/factories/pipelines"
+}
