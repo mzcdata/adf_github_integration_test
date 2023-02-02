@@ -1,0 +1,9 @@
+{
+	"name": "ADF-GIT-DERIK",
+	"location": "koreacentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7e5b220f-ae0f-4f8a-94e7-d3e7a02c2311",
+		"tenantId": "97f42f55-f1db-4804-b1eb-08db083efd4f"
+	}
+}
